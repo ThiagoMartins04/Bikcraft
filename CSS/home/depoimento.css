@@ -59,11 +59,9 @@
     .depoimento-conteudo {
         padding: 40px 20px;
         justify-self: center;
+        background: none;
     }
     .depoimento img {
         max-height: 200px;
-    }
-    .depoimento-conteudo {
-        background: none;
     }
 }
