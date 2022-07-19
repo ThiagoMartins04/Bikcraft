@@ -63,4 +63,7 @@
     .depoimento img {
         max-height: 200px;
     }
+    .depoimento-conteudo {
+        background: none;
+    }
 }
